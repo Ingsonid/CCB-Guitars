@@ -1,17 +1,17 @@
-
+import { Link } from "react-router-dom";
 
 const CategoriasGuitar = () => {
   return (
     <li className="nav-item dropdown">
             <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              <button className="btn btn-dark">Guitarras</button> 
+              <button className="btn btn-link-disabled">Guitarras</button> 
             </a>
             <ul className="dropdown-menu">
-              <li><a className="dropdown-item" href="#">Charvel</a></li>
-              <li><a className="dropdown-item" href="#">Jackson</a></li>
-              {/* <li><hr className="dropdown-divider" /></li> */}
-              <li><a className="dropdown-item" href="#">Gibson</a></li>
-              <li><a className="dropdown-item" href="#">Fender</a></li>
+             
+              <li><Link className="dropdown-item" to={"/category/Charvel-Guitars"}>Charvel</Link></li>
+            <li><Link className="dropdown-item" to={"/category/Jackson-Guitars"}>Jackson</Link></li>
+            <li><Link className="dropdown-item" to={"/category/Chapman-Guitars"}>Chapman</Link></li>
+            <li><Link className="dropdown-item" to={"/category/Prs-Guitars"}>Prs Guitars</Link></li>
             </ul>
           </li>
 

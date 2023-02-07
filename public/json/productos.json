@@ -1,0 +1,361 @@
+[
+
+  {
+      "id": 1,
+      "idCategoria":"Charvel-Guitars",
+      "nombre": "Charvel Pro-MOD So-Cal",
+      "marca": "Charvel",
+      "modelo": "Style 2 24 HH 2PT - Black Ash - CM",
+      "precio": 1290000,
+      "stock": 30,
+      "img": "1.jpeg"
+  },
+  {
+      "id": 2,
+      "idCategoria": "Charvel-Guitars",
+      "nombre": "Charvel Pro-Mod So-Cal",
+      "marca": "Charvel",
+      "modelo": "Style 1 HH FR - Vintage White - MP",
+      "precio": 1120000,
+      "stock": 20,
+      "img": "2.jpeg"
+  },
+  {
+      "id": 3,
+      "idCategoria":"Charvel-Guitars" ,
+      "nombre": "Charvel Pro-Mod San Dimas",
+      "marca": "Charvel",
+      "modelo": "Style 1 HSS FR - Platinum Pearl - MP",
+      "precio": 1310000,
+      "stock": 15,
+      "img": "3.jpeg"
+  },
+  {
+      "id": 4,
+      "idCategoria": "Charvel-Guitars",
+      "nombre": "Charvel Pro-Mod DK24 ",
+      "marca": "Charvel",
+      "modelo": "HH 2PT CM - Matte Blue Frost",
+      "precio": 1270000,
+      "stock": 30,
+      "img": "4.jpeg"
+  },
+
+
+
+
+
+  {
+      "id": 5,
+      "idCategoria": "Jackson-Guitars",
+      "nombre": "Jackson X Series Soloist",
+      "marca": "Jackson",
+      "modelo": "SLX DX Camo Multi-Color Camo",
+      "precio": 1065000,
+      "stock": 7,
+      "img": "5.jpeg"
+  },
+  {
+      "id": 6,
+      "idCategoria": "Jackson-Guitars",
+      "nombre": "Jackson JS Series Dinky",
+      "marca": "Jackson",
+      "modelo": "Arch Top JS32Q DKA - Transparent Green Burst",
+      "precio": 505000,
+      "stock": 20,
+      "img": "6.jpeg"
+  },
+  {
+      "id": 7,
+      "idCategoria": "Jackson-Guitars",
+      "nombre": "Jackson HT7 Juggernaut Misha",
+      "marca": "Jackson",
+      "modelo": "Mansoor Signature Serie Pro,Caramelized",
+      "precio": 525000,
+      "stock": 10,
+      "img": "7.jpeg"
+  },
+  {
+      "id": 8,
+      "idCategoria": "Jackson-Guitars",
+      "nombre": "Jackson SDXM",
+      "marca": "Jackson",
+      "modelo": "Adrian Smith Signature Serie X, Maple Fingerboard",
+      "precio": 700000,
+      "stock": 30,
+      "img": "8.jpeg"
+  },
+
+
+
+
+
+
+
+  {
+      "id": 9,
+      "idCategoria": "Chapman-Guitars",
+      "nombre": "Chapman Guitars ML3 ",
+      "marca": "Chapman",
+      "modelo": "Pro BEA Carthus Burst - Rabea Massaad",
+      "precio": 2120000,
+      "stock": 21,
+      "img": "9.jpeg"
+  },
+  {
+      "id": 10,
+      "idCategoria": "Chapman-Guitars",
+      "nombre": "Chapman Guitars ML3 Pro",
+      "marca": "Chapman",
+      "modelo": "Traditional Classic Argent Metalli",
+      "precio": 1120000,
+      "stock": 25,
+      "img": "10.jpeg"
+  },
+  {
+      "id": 11,
+      "idCategoria": "Chapman-Guitars",
+      "nombre": "Chapman Guitars ML3 Pro ",
+      "marca": "Chapman",
+      "modelo": "Traditional Classic Black Metallic",
+      "precio": 1120000,
+      "stock": 30,
+      "img": "11.jpeg"
+  },
+  {
+      "id": 12,
+      "idCategoria": "Chapman-Guitars",
+      "nombre": "Chapman Guitars ML3 Semi Hollow",
+      "marca": "Chapman",
+      "modelo": "Pro Traditional Blue Sparke",
+      "precio": 1180000,
+      "stock": 20,
+      "img": "12.jpeg"
+  },
+
+
+
+
+  {
+    "id": 13,
+    "idCategoria": "Prs-Guitars",
+    "nombre": "PRS Guitars 35th Anniversary",
+    "marca": "PRS Guitars",
+    "modelo": "Custom 24, Custom Dark Blue Burst",
+    "precio": 4830000,
+    "stock": 13,
+    "img": "13.jpeg"
+  },
+  {
+    "id": 14,
+    "idCategoria": "Prs-Guitars",
+    "nombre": "PRS Guitars Custom 24 Piezo",
+    "marca": "PRS Guitars",
+    "modelo": "10 Top, Dark Amethyst Burst",
+    "precio": 5190000,
+    "stock": 20,
+    "img": "14.jpeg"
+  },
+
+  {
+    "id": 15,
+    "idCategoria": "Prs-Guitars",
+    "nombre": "PRS Guitars S2 Singlecut",
+    "marca": "PRS Guitars",
+    "modelo": "McCarty 594 Dark Wine Burst",
+    "precio": 2140000,
+    "stock": 24,
+    "img": "15.jpeg"
+  },  
+
+  {
+    "id": 16,
+    "idCategoria": "Prs-Guitars",
+    "nombre": "PRS Guitars CE 24 Semi-hollow",
+    "marca": "PRS Guitars",
+    "modelo": "Custom Cherry Burst, Black Neck",
+    "precio": 2850000,
+    "stock": 29,
+    "img": "16.jpeg"
+},
+
+
+
+
+{
+    "id": 17,
+    "idCategoria": "Warwick-Bass",
+    "nombre": "Warwick RockBass",
+    "marca": "Warwick",
+    "modelo": "Corvette Basic 4 - Solid White",
+    "precio": 780000,
+    "stock": 13,
+    "img": "17.jpeg"
+  },
+  {
+    "id": 18,
+    "idCategoria": "Warwick-Bass",
+    "nombre": "Warwick RockBass",
+    "marca": "Warwick",
+    "modelo": "Corvette Basic 5 - Natural Satin",
+    "precio": 805000,
+    "stock": 20,
+    "img": "18.jpeg"
+  },
+
+  {
+    "id": 19,
+    "idCategoria": "Warwick-Bass",
+    "nombre": "Warwick RockBass",
+    "marca": "Warwick",
+    "modelo": "Corvette Classic 4 - Almond Sunburst",
+    "precio": 840000,
+    "stock": 24,
+    "img": "19.jpeg"
+  },  
+  
+  {
+    "id": 20,
+    "idCategoria": "Warwick-Bass",
+    "nombre": "Warwick RockBass",
+    "marca": "Warwick",
+    "modelo": "Streamer Standard 5 - Natural Satin",
+    "precio": 710000,
+    "stock": 29,
+    "img": "20.jpeg"
+},
+
+
+
+{
+    "id": 21,
+    "idCategoria": "Dingwall-Bass",
+    "nombre": "Dingwall NG-3",
+    "marca": "Dingwall",
+    "modelo": "4-String Matte Gold Metallic",
+    "precio": 2435000,
+    "stock": 13,
+    "img": "21.jpeg"
+  },
+  {
+    "id": 22,
+    "idCategoria": "Dingwall-Bass",
+    "nombre": "Dingwall NG-3",
+    "marca": "Dingwall",
+    "modelo": "String Left Hand Ducati White",
+    "precio": 2750000,
+    "stock": 20,
+    "img": "22.jpeg"
+  },
+
+  {
+    "id": 23,
+    "idCategoria": "Dingwall-Bass",
+    "nombre": "Dingwall D-ROC",
+    "marca": "Dingwall",
+    "modelo": "Standard Matte Blue to Purple Colorshift",
+    "precio": 1840000,
+    "stock": 24,
+    "img": "23.jpeg"
+  },  
+  
+  {
+    "id": 24,
+    "idCategoria": "Dingwall-Bass",
+    "nombre": "Dingwall Combustion",
+    "marca": "Dingwall",
+    "modelo": "6-String Indigoburst",
+    "precio": 2500000,
+    "stock": 29,
+    "img": "24.jpeg"
+},
+
+
+
+{
+    "id": 25,
+    "idCategoria": "Sadowsky-Bass",
+    "nombre": "Sadowsky MetroExpress",
+    "marca": "Sadowsky",
+    "modelo": "JJ 4 - Black - MA",
+    "precio": 585000,
+    "stock": 13,
+    "img": "25.jpeg"
+  },
+  {
+    "id": 26,
+    "idCategoria": "Sadowsky-Bass",
+    "nombre": "Sadowsky MetroExpress",
+    "marca": "Sadowsky",
+    "modelo": "JJ 4 - Candy Apple Red Metallic - MA",
+    "precio": 585000,
+    "stock": 20,
+    "img": "26.jpeg"
+  },
+
+  {
+    "id": 27,
+    "idCategoria": "Sadowsky-Bass",
+    "nombre": "Sadowsky MetroExpress",
+    "marca": "Sadowsky",
+    "modelo": "JJ 4 - Sage Green - MP",
+    "precio": 585000,
+    "stock": 24,
+    "img": "27.jpeg"
+  },  
+  
+  {
+    "id": 28,
+    "idCategoria": "Sadowsky-Bass",
+    "nombre": "Sadowsky MetroExpress",
+    "marca": "Sadowsky",
+    "modelo": "JJ 4 - Tobacco Burst - PF",
+    "precio": 585000,
+    "stock": 29,
+    "img": "28.jpeg"
+},
+
+
+{
+    "id":29,
+    "idCategoria": "Spector-Bass",
+    "nombre": "Spector EuroBolt 5",
+    "marca": "Spector",
+    "modelo": "Inferno Red Gloss - Aguilar Electronics",
+    "precio": 1700000,
+    "stock": 13,
+    "img": "29.jpeg"
+  },
+  {
+    "id":30,
+    "idCategoria": "Spector-Bass",
+    "nombre": "Spector Euro 5",
+    "marca": "Spector",
+    "modelo": "RST Turquoise Tide - Aguilar Electronics",
+    "precio": 2305000,
+    "stock": 20,
+    "img": "30.jpeg"
+  },
+
+  {
+    "id": 31,
+    "idCategoria": "Spector-Bass",
+    "nombre": "Spector Euro4",
+    "marca": "Spector",
+    "modelo": "LX Poplar Burl Natural Gloss",
+    "precio": 2040000,
+    "stock": 24,
+    "img": "31.jpeg"
+  },  
+  
+  {
+    "id": 32,
+    "idCategoria": "Spector-Bass",
+    "nombre": "Spector Euro 5",
+    "marca": "Spector",
+    "modelo": "LT Tiger Eye Gloss - Bartolini/Darkglass",
+    "precio": 2210000,
+    "stock": 29,
+    "img": "32.jpeg"
+}
+]

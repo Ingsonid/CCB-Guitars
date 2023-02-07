@@ -1,18 +1,19 @@
+import { Link } from "react-router-dom";
 
 import CategoriasGuitar from "./Cateogrias/CategoriasGuitars";
 import CategoriasBass from "./Cateogrias/CategoriasBass";
 const Secciones = () => {
   return (
     <>
-    <li className="nav-item">
-    <a className="nav-link active" aria-current="page" href="#"> <button className="btn btn-dark">Inicio</button>   </a>
-  </li>
+    <li className="nav-item colorNav">
+                <Link className="nav-link" to={"/"} ><button className="btn btn-link-disabled">Inicio</button></Link>
+            </li>
 
           <CategoriasGuitar/>
           <CategoriasBass/>
-  <li className="nav-item">
-    <a className="nav-link" href="#"><button className="btn btn-dark">Contacto</button></a>
-  </li>
+          <li className="nav-item">
+                <Link className="nav-link" to={"/contacto"}><button className="btn btn-link-disabled">Contacto</button></Link>
+            </li>
   </>
   );
 }

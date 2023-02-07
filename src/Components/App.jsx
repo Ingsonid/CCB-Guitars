@@ -1,8 +1,13 @@
 
+
+import { BrowserRouter,Route,Routes} from 'react-router-dom';
 import './App.css'
 import Navbar from './Navbar/Navbar';
-import Cardwidget from './Cardwidget/Cardwidget';
-import ItemListContainer from './ItemListContainer';
+// import Cardwidget from './Cardwidget/Cardwidget';
+import ItemCount from './ItemCount/ItemCount';
+import Dolar from './Dolar/Dolar';
+import ItemDetailContainer from './ItemDetailContainer/ItemDetailContainer';
+import ItemListContainer from './ItemListContainer/ItemListContainer';
 
 // import './App.css';
 
@@ -18,12 +23,29 @@ usar camelCase para propiedades
 
 
 function App() {
+ 
+
+ 
   return (
 
    <>
-          <Navbar/>
-          <ItemListContainer mensaje={"Bienvenido a mi tienda de instrumentos"}/>
+
+   <BrowserRouter>
+      <Navbar/>
+      <Routes>
+        <Route path='/' element={<ItemListContainer/>}/> 
+        <Route path='/item/:id' element={<ItemDetailContainer/>}/>
+        <Route path='/category/:idCategoria' element={<ItemListContainer/>}/>
+      </Routes> 
+    </BrowserRouter>
+          
+   
+          {/* <ItemCount  valInicial={1} stock={10} /> */}
           {/* <Cardwidget   cantidadCarrito={10} /> */}
+
+          {/* <Dolar/> */}
+         
+
 
    </>
   

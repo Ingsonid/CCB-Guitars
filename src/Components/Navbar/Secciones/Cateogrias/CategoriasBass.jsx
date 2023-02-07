@@ -1,17 +1,19 @@
-
+import { Link } from "react-router-dom";
 
 const CategoriasBass = () => {
   return (
     <li className="nav-item dropdown">
             <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              <button className="btn btn-dark">Bajos</button> 
+              <button className="btn btn-link-disabled">Bajos</button> 
             </a>
             <ul className="dropdown-menu">
-              <li><a className="dropdown-item" href="#">Warwick</a></li>
-              <li><a className="dropdown-item" href="#">Dingwall</a></li>
+            
               {/* <li><hr className="dropdown-divider" /></li> */}
-              <li><a className="dropdown-item" href="#">Sadowsky</a></li>
-              <li><a className="dropdown-item" href="#">Spector</a></li>
+          
+            <li><Link className="dropdown-item" to={"/category/Warwick-Bass"}>Warwick</Link></li>
+            <li><Link className="dropdown-item" to={"/category/Dingwall-Bass"}>Dingwall</Link></li>
+            <li><Link className="dropdown-item" to={"/category/Sadowsky-Bass"}>Sadowsky</Link></li>
+            <li><Link className="dropdown-item" to={"/category/Spector-Bass"}>Spector</Link></li>
             </ul>
           </li>
 
